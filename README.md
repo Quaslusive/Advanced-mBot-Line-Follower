@@ -10,8 +10,8 @@ Preview of the code in mBlock
 Adustble configertion
 ![](Screenshots/PreviewOfAdvmBotLineFollowerConfig%234.PNG)
 
-A closer look at the turning statments and butten controle for temporary halt 
+A closer look at the turning statments and butten controle for a 5 sec halt 
 ![](Screenshots/PreviewmAdvBotLineFollowerButtonControlAndTurningStatments%233.PNG)
 
-For easer manurblty and olso for fun, I have added remote control functionality 
+For easer maneuverability and also for fun, I have added remote control function 
 ![](Screenshots/PreviewmAdvBotLineFollowerRemoteControlConfig%232.PNG)
