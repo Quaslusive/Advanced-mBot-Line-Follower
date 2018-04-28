@@ -1,8 +1,9 @@
 # Advanced mBot Line Follower
 # About
-The main feature is that an mBots turning motion is not erratic when it follows a black line. 
+The main feature is that an mBots turning motion is not erratic when it follows a line. 
 
 Preview of the code in ![mBlock](href=http://www.mblock.cc/software/)  
+![](Screenshots/PreviewOfAdvmBotLineFollower%231.PNG)
 
 Adustble configertion with full commentary of all the variables
 ![](Screenshots/PreviewOfAdvmBotLineFollowerConfig%234.PNG)
